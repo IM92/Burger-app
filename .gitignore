@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+# my custom git ignore
+.idea/workspace.xml
+
 # testing
 /coverage
 
